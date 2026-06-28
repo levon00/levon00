@@ -21,3 +21,20 @@
 ## 🚀 About Me
 
 I'm a passionate **DevOps Engineer** with a knack for building innovative solutions and exploring new technologies. I thrive on bringing ideas to life, from designing robust cloud infrastructures and implementing automated deployment pipelines to ensuring seamless operations and continuous delivery.
+
+## 📚 Skills
+
+-   **Cloud & Virtualization:** Azure Cloud, AWS (S3, EC2, IAM, API Gateway, Lambda), Docker, Kubernetes
+-   **Infrastructure as Code (IaC):** Terraform
+-   **CI/CD & Automation:** CI/CD (GitHub Actions, Azure DevOps, Jenkins), Bash, Python
+-   **Monitoring & Logging:** Azure Monitor, Grafana
+-   **Operating Systems & Administration:** Linux Administration
+-   **Networking:**
+    *   Cloud Networking (Azure VNETs, NSGs, Load Balancers, VPN, DNS).
+    *   Container Networking (Kubernetes Services/Ingress, Docker).
+    *   TCP/IP, HTTP/S, DNS.
+    *   Network Security (Firewalls, NACLs).
+    *   Network Troubleshooting.
+-   **Databases:** MySQL, PostgreSQL, MongoDB
+-   **Languages:** Python, C, Bash
+-   **Version Control:** Git
