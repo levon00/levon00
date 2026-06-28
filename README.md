@@ -38,3 +38,7 @@ I'm a passionate **DevOps Engineer** with a knack for building innovative soluti
 -   **Databases:** MySQL, PostgreSQL, MongoDB
 -   **Languages:** Python, C, Bash
 -   **Version Control:** Git
+
+## 📫 Contact
+
+Feel free to drop me a line at [16levonxalatyan@gmail.com](mailto:16levonxalatyan@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/levon-khalatyan-1621162a1).
