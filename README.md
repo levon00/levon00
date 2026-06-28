@@ -17,3 +17,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C Badge" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" alt="Bash Badge" />
 </p>
+
+## 🚀 About Me
+
+I'm a passionate **DevOps Engineer** with a knack for building innovative solutions and exploring new technologies. I thrive on bringing ideas to life, from designing robust cloud infrastructures and implementing automated deployment pipelines to ensuring seamless operations and continuous delivery.
